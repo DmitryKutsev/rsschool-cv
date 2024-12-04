@@ -2,4 +2,4 @@
 
 Repo for learning basic JS with rsschool free course.
 
-https://DmitryKutsev.github.io/rsschool-cv/
+https://DmitryKutsev.github.io/rsschool-cv/cv/
